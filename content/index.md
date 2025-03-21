@@ -1,7 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Codex of Projects
 ---
 
-Welcome to the home page of the future portfolio. testing ofc
+Caleb’s test portfolio. The world is my oyster. [[Additional Page]]
 
 
