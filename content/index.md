@@ -6,7 +6,9 @@ I suppose I should introduce myself. I’m Caleb Kim, an incoming Master’s stu
 <br>
 Game dev, data science MS student, math nerd, dnd enjoyer, not good at web dev lmao
 
+## Hobbies
+
 ### Pages go here for now
 [[Game Projects Overview]] <br>
-[[Dungeons and Dragons]]
+[[Work as a Dungeon Master]]
 
