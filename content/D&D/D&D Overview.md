@@ -1,5 +1,5 @@
 ---
-title: "Work as a Dungeon Master"
+title: "D&D Overview"
 ---
 I love Dungeons and Dragons. I’ve been playing 5th edition since 2019, and have been a dungeon master since 2020. I use DMing as a creative outlet to create compelling narratives for my players. Worldbuilding for D&D is by *far* my favorite writing medium. Being able to create an interactive worlds for 
 
@@ -11,3 +11,6 @@ also i always homebrew my own worlds. I’ve never run a premade campaign becaus
 
 ## Current Campaigns
 I am currently running two campaigns in parallel, both set in my homebrew world [[Faltera]]. 
+
+## Homebrew
+As mentioned above, I always run homebrew campaigns. I draw inspiration from my favorite franchises. [[Homebrew Samples]]
