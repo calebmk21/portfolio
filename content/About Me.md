@@ -3,7 +3,7 @@ title: "About Me"
 --- 
 Describe myself I guess. Still have to figure out how I want to organize this
 
-Making sure that I didn't break the portfolio lol
+do themes get pushed?
 
 ## The Gamer
 Talk about my favorite games, perhaps link to a blog? Maybe I should start a blog.
