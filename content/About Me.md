@@ -3,6 +3,8 @@ title: "About Me"
 --- 
 Describe myself I guess. Still have to figure out how I want to organize this
 
+Making sure that I didn't break the portfolio lol
+
 ## The Gamer
 Talk about my favorite games, perhaps link to a blog? Maybe I should start a blog.
 Also I like developing video games. See [[Game Development]]
