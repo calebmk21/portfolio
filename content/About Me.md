@@ -4,6 +4,7 @@ title: "About Me"
 Describe myself I guess. Still have to figure out how I want to organize this
 
 please did blue topaz get pushed
+attempting to push theme
 
 ## The Gamer
 Talk about my favorite games, perhaps link to a blog? Maybe I should start a blog.
