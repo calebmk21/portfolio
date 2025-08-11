@@ -8,7 +8,7 @@ attempting to push theme
 
 ## The Gamer
 Talk about my favorite games, perhaps link to a blog? Maybe I should start a blog.
-Also I like developing video games. See [[_Game Development Overview|Games I've Worked On]]
+Also I like developing video games. See [[Game Development Overview|Games I've Worked On]]
 
 ## The Dungeon Master
 Oh yeah, it’s D&D time. <br>
