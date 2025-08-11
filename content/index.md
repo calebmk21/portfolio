@@ -5,10 +5,10 @@ Welcome to my little corner on the internet. I'm Caleb, a Master's student at UC
 <br>
 If you're interested in hearing more about me, check out the [[About Me]] page. Otherwise, feel free to explore some of the projects I have worked on. If you don't know where to start, I recommend checking out the list below. These are the games I've worked on that I feel encapsulate my development journey best. 
 ## Featured Games
-Here's a curated list of some specific projects I've worked on. If you'd like to see more of my game development journey and other projects beyond this list, check out [[Game Development Overview|the game's I've worked on here.]] 
+Here's a curated list of some specific projects I've worked on. If you'd like to see more of my game development journey and other projects beyond this list, check out [[Game Development Overview|the games I've worked on here.]] 
 <br>
 ### This is a Corporate Worker Simulator
-My most recent game! This was my team's entry into the Game Maker's Toolkit 2025 Game Jam. We wanted this to be a commentary on the endless loop of corporate life, and the different intrusive thoughts people get when they're burning out. I was the lead programmer and worked on the game manager and implemented the dialogue system using YarnSpinner. I'm also the voice of Sloth and Pride. Read more about it [[This is a Corporate Worker Simulator|here]]. 
+My most recent game! This was my team's entry into the Game Maker's Toolkit 2025 Game Jam. We wanted this to be a commentary on the endless loop of corporate life, and the different intrusive thoughts people get when they're burning out. Read more about it [[This is a Corporate Worker Simulator|here]]. 
 
 ### Scratching By
 One of the first projects I worked on, and the first project I feel proud of showing off. Scratching By holds a special place in my heart as being one of the most important parts of my undergrad experience. Seven of us made this game for Ludum Dare 51, and it was one of the best weekends of my life. What if you were a bobarista for a cat cafe, and all the cats are *extremely* particular about their orders? This game follows a nameless protagonist during an average shift at such a cafe. Read more [[Scratching By|here]].

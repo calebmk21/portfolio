@@ -2,10 +2,7 @@
 title: Requiem of the Frogs
 ---
 ## Project Overview
-This game was a passion project that I co-led during ACM Studio’s Students Run Studios program in 2023. I played Metroid Dread the summer of 2022 and decided this would be a fun style of game to make. Despite realizing I love the Metroidvania genre, I still have not completed Hollow Knight, but that’s for another time. Nonetheless, I love the storytelling from Metroid Dread and Hollow Knight (from what I have played), and I love using the ambient environment to tell a story.
-
-### Link to Game
-https://wozard.itch.io/requiem-of-the-frogs
+This game was a passion project that I co-led during ACM Studio’s Students Run Studios program in 2023. I played Metroid Dread the summer of 2022 and decided this would be a fun style of game to make. Despite realizing I love the Metroidvania genre, I still have not completed Hollow Knight, but that’s for another time. Nonetheless, I love the storytelling from Metroid Dread and Hollow Knight (from what I have played), and I love using the ambient environment to tell a story. Play the game [here](https://wozard.itch.io/requiem-of-the-frogs).
 
 ### Inspiration
 This specific idea that I had came after being inspired by a few things, namely the loss of my grandmother in 2021 and the song 言って (romanized as "Itte") by Yorushika (ヨルシカ), which I was listening to nonstop during the summer of 2022. I was very inspired by the idea of making a heartfelt story about learning to accept loss, and it was a deeply personal one since this was rooted in my own experiences.
@@ -26,13 +23,13 @@ Sometimes I look back on the team and wonder if I made the right choices. I chos
 ## Slide Decks
 ### The Pitch (Begins Slide 63)
 
-[https://docs.google.com/presentation/d/15kb-b8dYDuCJeH5-lWONUhlw_MpYPO_kwDs2gtO3gJ8/edit?usp=sharing](https://docs.google.com/presentation/d/15kb-b8dYDuCJeH5-lWONUhlw_MpYPO_kwDs2gtO3gJ8/edit?usp=sharing)
+[Pitch Slide Deck](https://docs.google.com/presentation/d/15kb-b8dYDuCJeH5-lWONUhlw_MpYPO_kwDs2gtO3gJ8/edit?usp=sharing)
 
 ### Winter Showcase (Begins Slide 20)
-[https://docs.google.com/presentation/d/1GlpYCuKtajYOCd7p8nRKowfbKtUvcLufV5cg4aR7tJU/edit?usp=sharing](https://docs.google.com/presentation/d/1GlpYCuKtajYOCd7p8nRKowfbKtUvcLufV5cg4aR7tJU/edit?usp=sharing)
+[ACM Studio's Winter Showcase 2023](https://docs.google.com/presentation/d/1GlpYCuKtajYOCd7p8nRKowfbKtUvcLufV5cg4aR7tJU/edit?usp=sharing)
 
 ### Spring Showcase (Begins Slide 29)
-[https://docs.google.com/presentation/d/1b9CRduhd0g41yfW8mrwAdywZLeDgWfgw43ENtik_JjU/edit?usp=sharing](https://docs.google.com/presentation/d/1b9CRduhd0g41yfW8mrwAdywZLeDgWfgw43ENtik_JjU/edit?usp=sharing)
+[ACM Studio's Spring Showcase 2023](https://docs.google.com/presentation/d/1b9CRduhd0g41yfW8mrwAdywZLeDgWfgw43ENtik_JjU/edit?usp=sharing)
 
 ### Narrative Planning Document
-[https://docs.google.com/document/d/1k2JxNwdaV0AD75RMPZFDYa79X5Dvcr6VGlubRMcyrbs/edit?usp=sharing](https://docs.google.com/document/d/1k2JxNwdaV0AD75RMPZFDYa79X5Dvcr6VGlubRMcyrbs/edit?usp=sharing)
+[Narrative Planning Document](https://docs.google.com/document/d/1k2JxNwdaV0AD75RMPZFDYa79X5Dvcr6VGlubRMcyrbs/edit?usp=sharing)
