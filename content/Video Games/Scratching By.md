@@ -10,3 +10,6 @@ I was one of the UI/UX designers and implementers, and by this point I was alrea
 ### Link to Project
 [Scratching By](https://jomeimei.itch.io/scratching-by)
 ![[+0GteS.png]]
+
+
+#Project/Game

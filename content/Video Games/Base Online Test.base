@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("Project/Game")
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.hasTag("Project/Game")

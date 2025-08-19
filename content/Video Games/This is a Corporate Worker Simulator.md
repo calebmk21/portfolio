@@ -12,3 +12,5 @@ The GMTK 2025 Game Jam had the theme "Loop" which could be interpreted in many w
 **TODO**
 ### Link to Game
 https://wozard.itch.io/corporate-worker-sim 
+
+#Project/Game
